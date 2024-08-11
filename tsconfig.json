@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "target": "ES2017",
+    "typeRoots": ["node_modules/@types", "src/types"],
+    "types": ["mocha", "chai", "node"],
+    "allowSyntheticDefaultImports": true
+  }
+}
