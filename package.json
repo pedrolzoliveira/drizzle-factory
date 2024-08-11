@@ -1,0 +1,15 @@
+{
+  "name": "drizzle-factory",
+  "version": "0.0.1",
+  "description": "factory for drizzle package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^9.9.0",
+    "typescript": "^5.5.4"
+  }
+}
